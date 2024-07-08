@@ -26,11 +26,11 @@ Section for Programming Languages:
 <div class="language">: Container for each programming language entry.
 Anchor Tag (<a>):
 
-<a href="https://en.wikipedia.org/wiki/HTML" target="_blank">: Creates a clickable link (<a> tag) that opens in a new tab (target="_blank").
+ Creates a clickable link (<a> tag) that opens in a new tab (target="_blank").
 href="https://en.wikipedia.org/wiki/HTML": Specifies the URL to link to (in this case, the Wikipedia page for HTML).
 Image (<img>):
 
-<img src="html-css-js.png" alt="HTML, CSS, JavaScript">: Displays an image (<img> tag) with the specified source (src) and alternative text (alt).
+Displays an image (<img> tag) with the specified source (src) and alternative text (alt).
 Language Description (<h3>, <p>):
 
 <h3>: Heading for the programming language.
